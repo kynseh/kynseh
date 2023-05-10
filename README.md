@@ -1,5 +1,8 @@
 # About Me:
-My name is Lorin, i am 17 years of age and live in Switzerlan<br>I am working for Informaticon AG, on a ERP-System<br><br>I am currently working on a school project about file management (coming soon)<br>I am planning on developing a simple chess game to play with friends (via C#)<br>I’m currently learning about Java, C# and SQL, focusing on Java
+My name is Lorin, i am 17 years of age and live in Switzerlan
+<br>I am currently working on a school project about file management (coming soon)
+<br>I am planning on developing a simple chess game to play with friends (via C#)
+<br>I’m currently learning about Java, C# and SQL
 
 
 ## Socials:
