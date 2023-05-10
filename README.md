@@ -9,9 +9,9 @@ My name is Lorin, i am 17 years of age and live in Switzerlan
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/xdlorin) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kynseh&theme=radical&hide_border=true&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats.vercel.app/api?username=kynseh&theme=radical&hide_border=true&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kynseh&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kynseh&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kynseh&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
