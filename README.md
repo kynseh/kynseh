@@ -1,3 +1,5 @@
+https://github.com/kynseh/kynseh/blob/master/ressources/GitHub%20Header%20-%20Kynseh.gif
+
 # About Me:
 My name is Lorin, i am 17 years of age and live in Switzerlan
 <br>I am currently working on a school project about file management (coming soon)
