@@ -1,4 +1,4 @@
-![](https://github.com/lorinsinzig/lorinsinzig/blob/master/ressources/LS-Banner.gif)
+![](https://github.com/lorinsinzig/lorinsinzig/blob/master/ressources/Dragon%20Git.png)
 
 # About Me:
 My name is Lorin, i am 17 years of age and live in Switzerlan
