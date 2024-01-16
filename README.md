@@ -1,11 +1,7 @@
 ![](https://github.com/lorinsinzig/lorinsinzig/blob/master/ressources/LS-GitHub-Header.gif)
 
 # About Me:
-My name is Lorin, i am 17 years of age and live in Switzerlan
-<br>I am currently working on a school project about file management (coming soon)
-<br>I am planning on developing a simple Movie Streaming App
-<br>I’m currently learning about Java, C# and SQL
-
+My name is Lorin, i am 17 years of age and live in Switzerland
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lorinsinzig&theme=radical&hide_border=true&include_all_commits=false&count_private=false) 
